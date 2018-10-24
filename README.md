@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hello!
+
+My name is Matthew Lucio and I am a freshman at TJHSST
